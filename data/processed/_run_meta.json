@@ -1,0 +1,11 @@
+{
+  "timestamp_utc": "2025-12-21T17:36:22.781262+00:00",
+  "rows": {
+    "orders": 5,
+    "users": 4
+  },
+  "outputs": {
+    "orders": "C:\\Users\\nawaf\\OneDrive\\Documents\\SDAIA_Week2\\W2_data_Work\\data\\processed\\orders.parquet",
+    "users": "C:\\Users\\nawaf\\OneDrive\\Documents\\SDAIA_Week2\\W2_data_Work\\data\\processed\\users.parquet"
+  }
+}
