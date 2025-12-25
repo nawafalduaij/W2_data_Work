@@ -22,13 +22,6 @@ python -m venv .venv
 source .venv/bin/activate
 ```
 
-2. **Install dependencies:**
-
-```bash
-pip install -r requirements.txt
-pip install -e .
-```
-
 ## How to Run
 
 ### 1. Run the ETL Pipeline
